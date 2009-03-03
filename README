@@ -1,0 +1,7 @@
+= Random Number
+
+Adds a tag <r:random_number> for generating random number in given range. Example:
+
+<r:random_number min="0" max="999999" />
+
+will generate random number in range [0..999999]
